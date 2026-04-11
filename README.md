@@ -10,9 +10,7 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 03 | ... | ⏳ |
 
 ## 🛠️ Setup
-```bash
-pip install -r requirements.txt
-```
+Installed Python from python.org, set up VS Code with the Python extension, and ran first .py file in terminal. setup done ✅🔥
 
 ## 📌 Rules
 - Code every day, no skipping

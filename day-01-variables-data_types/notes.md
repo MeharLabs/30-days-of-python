@@ -9,7 +9,7 @@ A variable is just a name you give to some data so you can use it later.
 👉 Variable = label + value
 
 ```python
-name = "John"
+name = "Mehar"
 age = 24
 vibe = "coding"
 ```
@@ -77,7 +77,7 @@ Data Types = different kinds of data you can store in Python.
 
 **1. 🐍 Use snake_case always**
 ```python
-user_name = "John"
+user_name = "Mehar"
 first_age = 24
 ```
 
@@ -126,14 +126,14 @@ print("Age: " + str(24))
 
 **2. ❌ Using wrong variable names**
 ```python
-2name = "John"  # ❌
-name = "John"   # ✅
+2name = "Mehar"  # ❌
+name = "Mehar"   # ✅
 ```
 
 **3. ❌ Forgetting quotes for strings**
 ```python
-name = John    # ❌
-name = "John"  # ✅
+name = Mehar    # ❌
+name = "Mehar"  # ✅
 ```
 
 **4. ❌ Overwriting variable by accident**

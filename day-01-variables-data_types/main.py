@@ -18,7 +18,7 @@ quantity = 29.09
 
 # str
 greeting = "Hi"
-name = "Red John"
+name = "Mehar Hassan"
 
 # str - blank
 name = ""
@@ -40,7 +40,7 @@ red = (255, 0, 0)
 
 # dict
 user = {
-    "name": "John",
+    "name": "Mehar",
     "age": 24,
     "vibe": "coding"
 }

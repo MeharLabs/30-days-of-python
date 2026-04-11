@@ -1,18 +1,17 @@
 # 📅 Day 01 — Variables & Data Types
 
 ## 🎯 Goal
-What you want to learn or achieve today.
+Know what data is, how to store it in variables, and how to use it.
 
 ## 📚 Topics Covered
-- Topic 1
-- Topic 2
-- Topic 3
+- Topic 1: Variables
+- Topic 2: Data Types
 
 ## 🧪 What I Built
-Brief description of today's mini script or project.
+Solved practice questions on Variables & Data Types — created profiles using dicts, stored data in lists and tuples, practiced type casting, f-strings, and string concatenation through hands-on mini challenges.
 
 ## 💡 Key Takeaway
-One or two lines — what clicked today.
+Variables are just labeled boxes that hold data, and every piece of data has a type — once you know what you're storing and why, your code starts making actual sense. 🧠🔥
 
 ## ⏱️ Time Spent
-~ X hours
+~ 4 hrs
