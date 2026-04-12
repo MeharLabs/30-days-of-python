@@ -69,7 +69,56 @@ Data Types = different kinds of data you can store in Python.
 - `tuple` 🔒 → fixed items
 - `dict` 🗂️ → key-value pairs
 
----
+# 🧩 Practice Questions — Variables, Data Types & Collections
+
+
+## 🟢 Level 1 — Easy (Just Getting Started)
+
+
+**Q1.** Create 3 variables — your name, age, and city. Print them using f-string.
+
+**Q2.** Create a list of 5 of your favorite foods. Print the first and last item.
+
+
+**Q3.** Create a dict of your profile with keys — `name`, `age`, `hobby`. Print your hobby.
+
+
+
+**Q4.** Check the type of these values using `type()`:
+
+```python
+42, "hello", 3.14, True, [1,2,3]
+```
+
+
+**Q5.** Store your birthday as a tuple `(day, month, year)` and print each value separately.
+
+
+
+## 🟡 Level 2 — Mid (Thinking Required 🧠)
+
+**Q6.** Take a number stored as string `"25"` and add `5` to it. Print the result.
+
+
+**Q7.** Create a list of 5 numbers. Add a new number, remove the 2nd item, then print the final list.
+
+
+**Q8.** Create a student dict with `name`, `marks`, and `grade`. Update the marks and add a new key `passed = True`.
+
+
+**Q9.** Concatenate your first name and last name using both `+` and f-string. Print both results.
+
+
+**Q10.** Create a tuple of 3 cities. Try to change the 2nd city — what error do you get? 👀
+
+
+## 🔴 Level 3 — Hard (Big Brain Mode 💀)
+
+
+**Q11.** Create a dict where keys are subject names and values are marks. Print only the subject names, then only the marks.
+
+
+**Q12.** You have this: `info = ("John", 20, "NYC")`. Unpack it into 3 separate variables and print each one.
 
 ## 🟦 Tips, Tricks & Gotchas 😎
 

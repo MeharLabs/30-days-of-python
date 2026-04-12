@@ -6,8 +6,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 01 | Variables & Data Types | ✅ |
-| Day 02 | Strings & Methods | 🔄 |
-| Day 03 | ... | ⏳ |
+| Day 02 | Conditionals | ✅ |
+| Day 03 | Loops | 🔄 |
+| Day 04 | ... | ⏳ |
 
 ## 🛠️ Setup
 Installed Python from python.org, set up VS Code with the Python extension, and ran first .py file in terminal. setup done ✅🔥
