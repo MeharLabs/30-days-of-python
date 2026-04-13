@@ -25,3 +25,6 @@ Be able to look at a repetitive problem and immediately solve it with the right 
 4. `enumerate()` & `zip()` are your best friends
 5. Infinite loop = Danger ☠️ always have exit condition
 6. See repetition → think loop! 🧠
+
+## ⏱️ Time Spent
+~ 6 hrs
