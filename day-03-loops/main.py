@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 03 — Loops
 # 📅 Date: 13/04/2026
-# 🎯 Goal:
+# 🎯 Goal: Be able to look at a repetitive problem and immediately know how to solve it with a loop — the right loop, the right way.
 # ============================================
 
 # --- code starts from here ---
