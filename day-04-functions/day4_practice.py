@@ -172,3 +172,22 @@ def convert(value, unit):
 
 print(convert(100, "C"))  # 212.0
 print(convert(212, "F"))  # 100.0
+
+# Q2. You have a list of dictionaries. Use a lambda to sort them by age.
+# people = [
+#     {"name": "Ali",  "age": 25},
+#     {"name": "Sara", "age": 19},
+#     {"name": "Zara", "age": 22}
+# ]
+# Expected output:
+# [{'name': 'Sara', 'age': 19}, {'name': 'Zara', 'age': 22}, {'name': 'Ali', 'age': 25}]
+
+people = [
+    {"name": "Ali",  "age": 25},
+    {"name": "Sara", "age": 19},
+    {"name": "Zara", "age": 22}
+]
+
+sorted_people = sorted(people, key=lambda person: person["age"])
+
+print(sorted_people)

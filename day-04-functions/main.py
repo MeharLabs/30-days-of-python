@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 04 - Functions
 # 📅 Date: 14/04/2026
-# 🎯 Goal:
+# 🎯 Goal: Understand and practice Python Functions from scratch, including parameters, arguments, scope, *args, **kwargs, lambda, return values. so I can write clean, reusable, and efficient code like a pro. 💪🐍
 # ============================================
 
 # --- code starts from here ---
