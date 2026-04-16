@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 06 - Lists & Tuples
-# 📅 Date: 15/04/2026
-# 🎯 Goal:
+# 📅 Date: 16/04/2026
+# 🎯 Goal: Goal is to fully understand the difference between Lists and Tuples, master key methods like .append(), .remove(), .sort(), and .pop(), explore indexing, slicing, list comprehensions, and tuple unpacking to write cleaner Python code.
 # =============================================
 
 # --- code starts from here ---

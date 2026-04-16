@@ -1,4 +1,4 @@
-## 📋 Day 4 — Quick Summary
+## 📋 Day 5 — Quick Summary
 
 ### 🎯 Short Goal
 Todays goal is to fully understand and practice Python Strings by going through all the concepts, methods, and tricks, then solving practice questions so that by the end of the day can confidently manipulate strings, use methods like .split(), .join(), .replace(), and format strings using f-strings without any help! 💪🔥

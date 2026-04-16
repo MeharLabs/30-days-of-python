@@ -1,1 +1,3 @@
 # No external libraries needed — built-in Python only
+
+import copy

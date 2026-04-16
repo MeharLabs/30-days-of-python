@@ -10,8 +10,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 03 | Loops |✅ |
 | Day 04 | Functions | ✅ |
 | Day 05 | Strings | ✅ |
-| Day 06 | Lists & Tuples | 🔄 |
-| Day 07 | ... | ⏳ |
+| Day 06 | Lists & Tuples | ✅ |
+| Day 07 | Dicts & Sets | 🔄 |
+| Day 08 | ... | ⏳ |
 
 
 ## 🛠️ Setup
