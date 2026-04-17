@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 07 - Dictionaries & Sets
 # 📅 Date: 17/04/2026
-# 🎯 Goal:
+# 🎯 Goal: Understand how to store & organize data using Dictionaries and Sets — and know when to use which one.
 # =============================================
 
 # --- code starts from here ---
