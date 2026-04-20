@@ -12,8 +12,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 05 | Strings | ✅ |
 | Day 06 | Lists & Tuples | ✅ |
 | Day 07 | Dicts & Sets | ✅ |
-| Day 08 | File I/O | 🔄 |
-| Day 09 | ... | ⏳ |
+| Day 08 | File I/O | ✅ |
+| Day 09 | Error Handling | 🔄 |
+| Day 10 | ... | ⏳ |
 
 
 ## 🛠️ Setup

@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 08 - File I/O
 # 📅 Date: 20/04/2026
-# 🎯 Goal: 
+# 🎯 Goal: Goal is to understand Python File I/O — learning how to read from and write to files, exploring different file modes, methods, and modules like os, json, and csv
 # =============================================
 
 # --- code starts from here ---
