@@ -1,5 +1,6 @@
-def square(x):
-  return x**2
-
-squared_numbers = [square(x) for x in range(10)]
-print(squared_numbers)
+number_list = [
+    num
+    for num in range(1, 51)
+    if num%3 == 0 and num%5 ==0
+]
+print(number_list)
