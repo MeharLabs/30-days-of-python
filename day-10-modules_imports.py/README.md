@@ -6,7 +6,7 @@ Goal is to understand how Python modules and imports work — how to create my o
 ---
 
 ### 📚 Topics Covered
-Today you covered **Python Modules & Imports** — including what modules are, ways to import, types of modules, useful built-in modules like `math`, `random`, `os`, `datetime` and `json`, packages, key methods like `dir()` and `help()`, `sys.argv`, `importlib`, and best practices for clean imports. 
+**Python Modules & Imports** — including what modules are, ways to import, types of modules, useful built-in modules like `math`, `random`, `os`, `datetime` and `json`, packages, key methods like `dir()` and `help()`, `sys.argv`, `importlib`, and best practices for clean imports. 
 
 ---
 
@@ -40,8 +40,6 @@ Today you covered **Python Modules & Imports** — including what modules are, w
 
 ✅ Avoid `from module import *` as it pollutes your namespace
 
-
-## 🔑 Key Takeaways
 
 ## Key Takeaways 🎯
 

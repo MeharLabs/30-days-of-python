@@ -15,8 +15,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 08 | File I/O | ✅ |
 | Day 09 | Error Handling | ✅ |
 | Day 10 | Modules & Imports | ✅ |
-| Day 11 | List Comprehensions | 🔄 |
-| Day 12 | ... | ⏳ |
+| Day 11 | List Comprehensions | ✅ |
+| Day 12 | OOP Basics | 🔄 |
+| Day 13 | ... | ⏳ |
 
 
 ## 🛠️ Setup

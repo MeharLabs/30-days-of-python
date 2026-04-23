@@ -1,6 +1,5 @@
-# # 🐍 Day 11 – List Comprehensions Practice Questions
+# 🐍 Day 11 – List Comprehensions Practice Questions
 
-# ---
 
 # 🟢 Level 1 — Easy (just getting started)
 # =======================================
@@ -83,13 +82,13 @@ print(result)
 
 # **Q9.** Using two lists:
 # keys = ["name", "age", "city"]
-# values = ["Ali", 22, "Rawalpindi"]
+# values = ["John", 22, "NYC"]
 
 # Create a **dictionary** from them using a comprehension.
-# Expected: {'name': 'Ali', 'age': 22, 'city': 'Rawalpindi'}
+# Expected: {'name': 'John', 'age': 22, 'city': 'NYC'}
 
 keys = ["name", "age", "city"]
-values = ["Ali", 22, "Rawalpindi"]
+values = ["John", 22, "NYC"]
 
 expected_result = {k: v for k, v in zip(keys, values)}
 print(expected_result)

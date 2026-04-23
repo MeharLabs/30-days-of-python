@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 11 - List Comprehensions
 # 📅 Date: 23/04/2026
-# 🎯 Goal: 
+# 🎯 Goal: Understand List Comprehensions deeply - know what they are, why they exist, and when to use them over a regular loop.
 # =============================================
 
 # --- code starts from here ---
