@@ -16,8 +16,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 09 | Error Handling | ✅ |
 | Day 10 | Modules & Imports | ✅ |
 | Day 11 | List Comprehensions | ✅ |
-| Day 12 | OOP Basics | 🔄 |
-| Day 13 | ... | ⏳ |
+| Day 12 | OOP Basics | ✅ |
+| Day 13 | OOP Advanced | 🔄 |
+| Day 14 | ... | ⏳ |
 
 
 ## 🛠️ Setup
