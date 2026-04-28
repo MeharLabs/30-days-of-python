@@ -1,7 +1,7 @@
 # ============================================
 # 🐍 Day 14 - JSON Handling
 # 📅 Date: 28/04/2026
-# 🎯 Goal:
+# 🎯 Goal: Master reading, writing, and manipulating JSON data in Python. Converting between strings, dictionaries, and files using json.loads(), json.dumps(), json.load(), and json.dump(), while keeping output clean with pretty printing.
 # =============================================
 
 # --- code starts from here ---

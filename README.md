@@ -18,8 +18,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 11 | List Comprehensions | ✅ |
 | Day 12 | OOP Basics | ✅ |
 | Day 13 | OOP Advanced | ✅ |
-| Day 14 | JSON Handling | 🔄 |
-| Day 15 | ... | ⏳ |
+| Day 14 | JSON Handling | ✅ |
+| Day 15 | CSV Handling | 🔄 |
+| Day 16 | ... | ⏳ |
 
 
 ## 🛠️ Setup
