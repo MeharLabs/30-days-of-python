@@ -13,8 +13,6 @@ JSON basics, converting between strings & dicts using `loads/dumps`, reading & w
 
 ### 🔨 What I Learned
 
-✅ 
-
 ✅ JSON is a lightweight data format used to exchange data between systems
 
 ✅ `json.loads()` converts a **JSON string → Python dict**

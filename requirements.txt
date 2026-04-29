@@ -1,4 +1,4 @@
-# No external libraries needed — built-in Python only
+# External libraries needed & built-in Python only
 
 import copy
 import json
@@ -9,3 +9,4 @@ import random
 import math
 import abc
 import json
+import pandas
