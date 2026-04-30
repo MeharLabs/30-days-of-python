@@ -20,8 +20,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 13 | OOP Advanced | ✅ |
 | Day 14 | JSON Handling | ✅ |
 | Day 15 | CSV Handling | ✅ |
-| Day 16 | Decorators | 🔄 |
-| Day 17 | ... | ⏳ |
+| Day 16 | Decorators | ✅ |
+| Day 17 | Generators | 🔄 |
+| Day 18 | ... | ⏳ |
 
 
 ## 🛠️ Setup
