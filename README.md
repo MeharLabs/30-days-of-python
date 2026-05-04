@@ -21,8 +21,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 14 | JSON Handling | ✅ |
 | Day 15 | CSV Handling | ✅ |
 | Day 16 | Decorators | ✅ |
-| Day 17 | Generators | 🔄 |
-| Day 18 | ... | ⏳ |
+| Day 17 | Generators | ✅ |
+| Day 18 | Lambda & Map/Filter | 🔄 |
+| Day 19 | ... | ⏳ |
 
 
 ## 🛠️ Setup
