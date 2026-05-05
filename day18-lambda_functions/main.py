@@ -6,6 +6,9 @@
 
 # --- code starts from here ---
 
+# lambda structure
+# lambda parameter(s): expression
+
 # lambda functions
 add = lambda x, y: x + y
 
