@@ -23,8 +23,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 16 | Decorators | ✅ |
 | Day 17 | Generators | ✅ |
 | Day 18 | Lambda & Map/Filter  | ✅ |
-| Day 19 | Regex | 🔄 |
-| Day 20 | ... | ⏳ |
+| Day 19 | Regex  | ✅ |
+| Day 20 | API Requests | 🔄 |
+| Day 21 | ... | ⏳ |
 
 
 ## 🛠️ Setup
