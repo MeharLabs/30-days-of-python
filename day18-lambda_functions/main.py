@@ -1,6 +1,6 @@
 # ============================================
 # 🐍 Day 18 - Lambda Functions
-# 📅 Date: 04/05/2026
+# 📅 Date: 05/05/2026
 # 🎯 Goal: Lambda functions and Map/Filter in Python, learning how to write concise anonymous functions with lambda, transform data using map(), filter data using filter(), sort smartly with sorted(key=), and know exactly when to use lambda versus a regular function.
 # =============================================
 
@@ -37,10 +37,10 @@ print(list(sorted_values))
 # advanced lambda functions
 from functools import reduce
 
-numbers = [1,2,3,4,5]
+numbers = [1, 2, 3, 4, 5]
 
 # Using reduce to sum the list without initializer
-sun_of_numbers = reduce(lambda acc, x: acc+x, numbers)
+sun_of_numbers = reduce(lambda acc, x: acc + x, numbers)
 print(sun_of_numbers)
 
 # Using reduce to find the maximum value
