@@ -1,4 +1,4 @@
-## 📋 Day 18 — Quick Summary
+## 📋 Day 19 — Quick Summary
 
 ### 🎯 Short Goal
 

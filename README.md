@@ -24,8 +24,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 17 | Generators | ✅ |
 | Day 18 | Lambda & Map/Filter  | ✅ |
 | Day 19 | Regex  | ✅ |
-| Day 20 | API Requests | 🔄 |
-| Day 21 | ... | ⏳ |
+| Day 20 | API Requests  | ✅ |
+| Day 21 | Web Scraping | 🔄 |
+| Day 22 | ... | ⏳ |
 
 
 ## 🛠️ Setup
