@@ -13,3 +13,4 @@ import pandas
 import functools
 import re
 import requests
+import BeautifulSoup
