@@ -2,16 +2,14 @@
 
 ### 🎯 Short Goal
 
-Learn how to automatically extract data from websites using Python's requests and BeautifulSoup libraries ✅ HTML parsing, element selection.
+Learn how to automatically extract data from websites using Python's requests and BeautifulSoup libraries. HTML parsing, element selection.
 
-✅
 
 ### 📚 Topics Covered
 
 
 Web Scraping, Core Libraries, BeautifulSoup Basics, requests + bs4 Combo, .find() and .find_all(), Extracting Text & Links, Navigation Methods, Tips & Tricks, and Ethical Scraping Rules.
 
-✅
 
 ### 🔨 What I Learned
 

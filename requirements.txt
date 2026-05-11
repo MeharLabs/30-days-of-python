@@ -14,3 +14,4 @@ import functools
 import re
 import requests
 import BeautifulSoup
+import pytest
