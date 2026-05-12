@@ -15,3 +15,4 @@ import re
 import requests
 import BeautifulSoup
 import pytest
+import mypy
