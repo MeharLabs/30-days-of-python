@@ -28,8 +28,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 21 | Web Scraping  | ✅ |
 | Day 22 | Testing with Pytest  | ✅ |
 | Day 23 | Type Hints  | ✅ |
-| Day 24 | Threading  | 🔄 |
-| Day 25 | ... | ⏳ |
+| Day 24 | Threading  | ✅ |
+| Day 25 | Async / Await  | 🔄 |
+| Day 26 | ... | ⏳ |
 
 
 ## 🛠️ Setup
