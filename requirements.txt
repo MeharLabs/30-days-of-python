@@ -17,3 +17,5 @@ import BeautifulSoup
 import pytest
 import mypy
 import threading
+import aiohttp
+import asyncio
