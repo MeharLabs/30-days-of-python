@@ -30,8 +30,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 23 | Type Hints  | ✅ |
 | Day 24 | Threading  | ✅ |
 | Day 25 | Async / Await  | ✅ |
-| Day 26 | SQLite & Databases  | 🔄 |
-| Day 27 | ... | ⏳ |
+| Day 26 | SQLite & Databases  | ✅ |
+| Day 27 | Argparse CLI  | 🔄 |
+| Day 28 | ... | ⏳ |
 
 
 ## 🛠️ Setup

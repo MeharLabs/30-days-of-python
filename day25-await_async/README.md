@@ -4,13 +4,12 @@
 Learn how to write non-blocking Python code using Async/Await to run multiple tasks concurrently.
 
 ### 📚 Topics Covered
-Today you covered **Sync vs Async**, **async def functions**, the **await keyword**, **asyncio.run()**, **fetching multiple APIs asynchronously**, and essential asyncio tools like **gather, create_task, wait_for, sleep, as_completed, Lock, and Queue**. 🐍⚡
+Today you covered **Sync vs Async**, **async def functions**, the **await keyword**, **asyncio.run()**, **fetching multiple APIs asynchronously**, and essential asyncio tools like **gather, create_task, wait_for, sleep, as_completed, Lock, and Queue**.
 
 
 ### 🔨 What I Learned
 
 
-✅  
 ✅ The difference between **sync** (blocking) and **async** (non-blocking) code
 
 ✅ How to define async functions using **`async def`**
