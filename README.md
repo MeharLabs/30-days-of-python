@@ -31,8 +31,9 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 24 | Threading  | ✅ |
 | Day 25 | Async / Await  | ✅ |
 | Day 26 | SQLite & Databases  | ✅ |
-| Day 27 | Argparse CLI  | 🔄 |
-| Day 28 | ... | ⏳ |
+| Day 27 | Argparse CLI  | ✅ |
+| Day 28 | Packaging  | 🔄 |
+| Day 29 | ... | ⏳ |
 
 
 ## 🛠️ Setup
