@@ -1,4 +1,4 @@
-## 📋 Day 26 — Quick Summary
+## 📋 Day 27 — Quick Summary
 
 ### 🎯 Short Goal
 how to use Python's argparse module to build CLI tools that accept and validate arguments from the terminal.
