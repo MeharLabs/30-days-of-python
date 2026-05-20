@@ -34,7 +34,7 @@ A hands-on Python learning journey — one day, one concept at a time.
 | Day 27 | Argparse CLI  | ✅ |
 | Day 28 | Packaging  | ✅ |
 | Day 29 | Wrap Up & Polish  | ✅ |
-| Day 30 | ... | ⏳ |
+| Day 30 | Getting Started with PostgreSQL + SQLAlchemy  | ⏳ |
 
 
 ## 🛠️ Setup
