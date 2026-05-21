@@ -3,44 +3,46 @@
 A hands-on Python learning journey — one day, one concept at a time.
 
 ## 🗓️ Progress Tracker
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 01 | Variables & Data Types | ✅ |
-| Day 02 | Conditionals | ✅ |
-| Day 03 | Loops |✅ |
-| Day 04 | Functions | ✅ |
-| Day 05 | Strings | ✅ |
-| Day 06 | Lists & Tuples | ✅ |
-| Day 07 | Dicts & Sets | ✅ |
-| Day 08 | File I/O | ✅ |
-| Day 09 | Error Handling | ✅ |
-| Day 10 | Modules & Imports | ✅ |
-| Day 11 | List Comprehensions | ✅ |
-| Day 12 | OOP Basics | ✅ |
-| Day 13 | OOP Advanced | ✅ |
-| Day 14 | JSON Handling | ✅ |
-| Day 15 | CSV Handling | ✅ |
-| Day 16 | Decorators | ✅ |
-| Day 17 | Generators | ✅ |
-| Day 18 | Lambda & Map/Filter  | ✅ |
-| Day 19 | Regex  | ✅ |
-| Day 20 | API Requests  | ✅ |
-| Day 21 | Web Scraping  | ✅ |
-| Day 22 | Testing with Pytest  | ✅ |
-| Day 23 | Type Hints  | ✅ |
-| Day 24 | Threading  | ✅ |
-| Day 25 | Async / Await  | ✅ |
-| Day 26 | SQLite & Databases  | ✅ |
-| Day 27 | Argparse CLI  | ✅ |
-| Day 28 | Packaging  | ✅ |
-| Day 29 | Wrap Up & Polish  | ✅ |
-| Day 30 | Getting Started with PostgreSQL + SQLAlchemy  | ⏳ |
 
+| Day    | Topic                                        | Status |
+| ------ | -------------------------------------------- | ------ |
+| Day 01 | Variables & Data Types                       | ✅     |
+| Day 02 | Conditionals                                 | ✅     |
+| Day 03 | Loops                                        | ✅     |
+| Day 04 | Functions                                    | ✅     |
+| Day 05 | Strings                                      | ✅     |
+| Day 06 | Lists & Tuples                               | ✅     |
+| Day 07 | Dicts & Sets                                 | ✅     |
+| Day 08 | File I/O                                     | ✅     |
+| Day 09 | Error Handling                               | ✅     |
+| Day 10 | Modules & Imports                            | ✅     |
+| Day 11 | List Comprehensions                          | ✅     |
+| Day 12 | OOP Basics                                   | ✅     |
+| Day 13 | OOP Advanced                                 | ✅     |
+| Day 14 | JSON Handling                                | ✅     |
+| Day 15 | CSV Handling                                 | ✅     |
+| Day 16 | Decorators                                   | ✅     |
+| Day 17 | Generators                                   | ✅     |
+| Day 18 | Lambda & Map/Filter                          | ✅     |
+| Day 19 | Regex                                        | ✅     |
+| Day 20 | API Requests                                 | ✅     |
+| Day 21 | Web Scraping                                 | ✅     |
+| Day 22 | Testing with Pytest                          | ✅     |
+| Day 23 | Type Hints                                   | ✅     |
+| Day 24 | Threading                                    | ✅     |
+| Day 25 | Async / Await                                | ✅     |
+| Day 26 | SQLite & Databases                           | ✅     |
+| Day 27 | Argparse CLI                                 | ✅     |
+| Day 28 | Packaging                                    | ✅     |
+| Day 29 | Wrap Up & Polish                             | ✅     |
+| Day 30 | Getting Started with PostgreSQL + SQLAlchemy | ✅     |
 
 ## 🛠️ Setup
+
 Installed Python from python.org, set up VS Code with the Python extension, and ran first .py file in terminal. setup done ✅🔥
 
 ## 📌 Rules
+
 - Code every day, no skipping
 - Take notes while learning
 - Build something small each day
